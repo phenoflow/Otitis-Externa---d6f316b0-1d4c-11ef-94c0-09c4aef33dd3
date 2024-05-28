@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/otitis-externa-unspecified---primary.py
+inputModule3:
+  class: File
+  path: python/otitis-externa-abscess---primary.py
+inputModule4:
+  class: File
+  path: python/infective-otitis-externa---primary.py
+inputModule5:
+  class: File
+  path: python/otitis-externa-otorrhoea---primary.py
+inputModule6:
+  class: File
+  path: python/otitis-externa-erysipela---primary.py
+inputModule7:
+  class: File
+  path: python/otitis-externa-perichondritis---primary.py
+inputModule8:
+  class: File
+  path: python/otitis-externa---primary.py
+inputModule9:
+  class: File
+  path: python/acute-otitis-externa---primary.py
+inputModule10:
+  class: File
+  path: python/chronic-otitis-externa---primary.py
+inputModule11:
+  class: File
+  path: python/other-otitis-externa---primary.py
+inputModule12:
+  class: File
+  path: python/otitis-externa-helicis---primary.py
+inputModule13:
+  class: File
+  path: python/otitis-externa-impetigo---primary.py
+inputModule14:
+  class: File
+  path: python/otitis-externa-otalgia---primary.py
+inputModule15:
+  class: File
+  path: python/otitis-externa-otorrhagia---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
